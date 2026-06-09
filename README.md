@@ -52,7 +52,7 @@ python train.py
 Example:
 
 ```text
-Input: kalyanscrewedyou#847
+Input: tanishqa#$__672903
 Output: Strong Password (2)
 ```
 
